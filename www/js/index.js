@@ -1,14 +1,16 @@
 var admobid = {}
 if (/(android)/i.test(navigator.userAgent)) {  // for android & amazon-fireos
-  /*admobid = {
+  //
+  admobid = {
     banner: 'ca-app-pub-3940256099942544/6300978111',
     interstitial: 'ca-app-pub-3940256099942544/1033173712',
   }
-  */
+  //
+  /*
    admobid = {
     banner: 'ca-app-pub-5538907074173065/9306070307',
     interstitial: 'ca-app-pub-5538907074173065/4373307828',
-  }
+  }*/
 } else if (/(ipod|iphone|ipad)/i.test(navigator.userAgent)) {  // for ios
   admobid = {
     banner: 'ca-app-pub-3940256099942544/2934735716',
