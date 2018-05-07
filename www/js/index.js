@@ -6,8 +6,8 @@ if (/(android)/i.test(navigator.userAgent)) {  // for android & amazon-fireos
   }
   */
    admobid = {
-    banner: 'ca-app-pub-5538907074173065/9306070307',
-    interstitial: 'ca-app-pub-5538907074173065/4373307828',
+    banner: 'ca-app-pub-5538907074173065/3094518199',
+    interstitial: 'ca-app-pub-5538907074173065/9066149736',
   }
 } else if (/(ipod|iphone|ipad)/i.test(navigator.userAgent)) {  // for ios
   admobid = {
