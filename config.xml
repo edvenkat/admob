@@ -32,4 +32,7 @@
 	</plugin> -->
 	<plugin spec="https://github.com/edvenkat/cordova-plugin-firebase-crashlytics">
 	</plugin> 
+	<plugin spec="https://github.com/edvenkat/google-service">
+	</plugin> 
+	
 </widget>
